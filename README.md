@@ -14,4 +14,4 @@ use modern patterns focussing performance, error catching and encapsulation.
 
 ## Links
 
-➡ Live Version:
+➡ Live Version: https://splendorous-florentine-23820f.netlify.app/
