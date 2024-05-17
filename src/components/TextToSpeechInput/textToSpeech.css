@@ -1,0 +1,11 @@
+.text-input-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    textarea {
+        height: 300px;
+        resize: none;
+        padding: 1rem;
+    }
+}
